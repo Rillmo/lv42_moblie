@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # lv42_moblie
 Flutter Moblie Application for LV42
-=======
-# flutter_ex03
 
 A new Flutter project.
 
